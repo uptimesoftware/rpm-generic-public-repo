@@ -1,2 +1,2 @@
 # rpm-generic-public-repo
-Generic repo to manage rpm's packages for Linux 
+Generic repo to manage rpm packages for Linux 
